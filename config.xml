@@ -9,4 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <gap:plugin name="com.ququplay.websocket.websocket" />
 </widget>
